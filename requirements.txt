@@ -1,0 +1,6 @@
+customtkinter
+matplotlib
+numpy
+pygame
+plyer
+pillow

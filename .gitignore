@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+demoEnv/
+venv/
+.env
+
+# Data
+metricas_historial.json
+metricas_demo.json
+equipos_demo.json
+reporte_demo_*.txt
+
+# IDEs
+.vscode/
+.idea/
+
+# Sentinel specific
+*.resolved
+Sentinel_Master_Prompt.md.resolved
