@@ -1,6 +1,6 @@
-# 🛡️ Anvic Network Sentinel v2.0 - Demo Version
+# 🛡️ Sistema Network Sentinel IP - Demo Version
 
-**Anvic Network Sentinel** is a professional network monitoring solution designed for high-visibility environments. This version is a **Demo Edition** optimized for portfolios, featuring real-time simulation of network states and advanced data visualization.
+**Network Sentinel IP** is a professional network monitoring solution designed for high-visibility environments. This version is a **Demo Edition** optimized for portfolios, featuring real-time simulation of network states and advanced data visualization.
 
 ![Sentinel Preview](https://via.placeholder.com/800x450.png?text=Sentinel+v2.0+Interface+Preview) <!-- Reemplazar con captura real después -->
 
@@ -60,4 +60,4 @@
 Powered by **@Betograf_inc**
 
 ---
-*© 2026 Anvic Network Sentinel. All rights reserved.*
+*© 2026 Network Sentinel IP. All rights reserved.*
