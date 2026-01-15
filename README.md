@@ -2,7 +2,7 @@
 
 **Network Sentinel IP** is a professional network monitoring solution designed for high-visibility environments. This version is a **Demo Edition** optimized for portfolios, featuring real-time simulation of network states and advanced data visualization.
 
-![Sentinel Preview](https://via.placeholder.com/800x450.png?text=Sentinel+v2.0+Interface+Preview) <!-- Reemplazar con captura real después -->
+![Sentinel Preview](https://github.com/betorockers/Sentinel_Demo/blob/main/assets/img/DemoMonitor.webp) <!-- Reemplazar con captura real después -->
 
 ## 🚀 Key Features
 
